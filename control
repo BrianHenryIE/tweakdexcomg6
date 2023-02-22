@@ -1,0 +1,9 @@
+Package: ie.brianhenry.dexcomg6
+Name: tweak-dexcom-g6
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Log bluetooth data and UILabel changes for Dexcom!
+Maintainer: Brian Henry
+Author: Brian Henry
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
